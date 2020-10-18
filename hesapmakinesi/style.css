@@ -1,0 +1,50 @@
+#box{
+    
+    width: 380px;
+    height: 300px;
+    left:420px;
+    position: absolute;
+    background-color:bisque;
+}
+.operator
+{
+ 
+ width: 50px;
+ height: 30px;
+
+ background-color: aquamarine;
+}
+.num
+{
+    
+
+ width: 50px;
+ height: 30px;
+    
+ background-color: aquamarine;
+}
+#inputs
+{
+margin-top:30px;     
+width: 330px;
+background-color: aquamarine;
+font-size:25px; 
+}
+#bt16
+{
+width: 50px;
+ height: 30px;
+ background-color: aquamarine;    
+position: absolute;
+left:290px;
+height: 140px;
+}
+.buton
+{
+ 
+   
+ width: 50px;
+ height: 30px;
+   
+ background-color: aquamarine;
+}
